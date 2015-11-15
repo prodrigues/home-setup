@@ -13,7 +13,7 @@ I've nothing against the **Fink project**, I just wanted a faster solution. Goog
 ## Installation
 
 Before installing, pay attention to the following requirements:
-- I'm using [vim](http://www.vim.org) as the default editor when using git on the command line, so you **must have vim installed**. If you want to use another editor you'll have to change the *[core] section* of the .gitignoe file.  
+- I'm using [vim](http://www.vim.org) as the default editor when using git on the command line, so you **must have vim installed**. If you want to use another editor you'll have to change the *[core] section* of the .gitignore file.  
 
 Now, to install the setup:
 
