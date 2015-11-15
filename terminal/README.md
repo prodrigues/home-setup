@@ -16,6 +16,7 @@ Before installing, pay attention to the following requirements:
 - I'm using [vim](http://www.vim.org) as the default editor when using git on the command line, so you **must have vim installed**. If you want to use another editor you'll have to change the *[core] section* of the .gitignoe file.  
 
 Now, to install the setup:
+
 1. Copy the files in this repository folder to your home folder. **Atention!** Do not replace your *.bash_profile* file with mine's. Just copy it's content. 
 2. Install **iTerm2** and apply the [Solarized](https://github.com/altercation/solarized) theme. To apply the theme, you can define a new profile in **iTerm2** preferences and load the colors provided by Solarized for iTerm2. 
 3. Go to [magicmonty's bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) repository and follow his [instructions](https://github.com/magicmonty/bash-git-prompt#via-git-clone) to setup git information in your bash prompt. Basically, you just have to clone his repository and put the contents in a folder named *.bash-git-prompt* in your home folder. 
@@ -37,6 +38,6 @@ To keep things a bit more organized, the file *.bash_profile* loads the followin
 
 Some of the ideas or plugins mentioned are not mine, so you might be interested in knowing their sources:
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
-- [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup#projects-folder), where I grabbed the idea to split in separate files some common bash tasks.
+- [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup#projects-folder), where I grabbed the idea to split in separate files some common bash tasks, and some tweaks to the prompt.
 - [Solarized Theme](https://github.com/altercation/solarized)
  
